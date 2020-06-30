@@ -1,0 +1,14 @@
+{
+  "name": "chrome-extension-ts",
+  "version": "1.0.0",
+  "author": "jvmartins",
+  "license": "MIT",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.117",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.5"
+  }
+}
